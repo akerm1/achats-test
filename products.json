@@ -1,7 +1,7 @@
 {
   "version": 7,
   "client": "10.3.0",
-  "updatedAt": "2026-11-22T07:15:11.524Z",
+  "updatedAt": "2026-11-22T17:04:22.609Z",
   "settings": {
     "theme": "light",
     "filter": "todo",
@@ -182,7 +182,17 @@
         "updatedAt": "2026-11-19T14:47:13.915Z"
       }
     ],
-    "investments": [],
+    "investments": [
+      {
+        "name": "Mouh",
+        "amount": 1600000,
+        "remaining": 40000,
+        "note": "",
+        "id": "inv_1795367062526",
+        "createdAt": "2026-11-22T17:04:22.526Z",
+        "updatedAt": "2026-11-22T17:04:22.526Z"
+      }
+    ],
     "revenues": [
       {
         "id": "rev-2025-04-01",
