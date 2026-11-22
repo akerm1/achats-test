@@ -1,7 +1,7 @@
 {
   "version": 7,
   "client": "10.3.0",
-  "updatedAt": "2026-11-22T17:05:56.855Z",
+  "updatedAt": "2026-11-22T17:06:05.733Z",
   "settings": {
     "theme": "light",
     "filter": "todo",
@@ -185,7 +185,7 @@
     "investments": [
       {
         "name": "Mouh",
-        "amount": 1600000,
+        "amount": 16000000,
         "remaining": 40000,
         "note": "",
         "id": "inv_1795367062526",
