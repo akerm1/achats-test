@@ -1,7 +1,7 @@
 {
   "version": 7,
   "client": "10.3.0",
-  "updatedAt": "2026-11-22T17:04:22.609Z",
+  "updatedAt": "2026-11-22T17:05:53.886Z",
   "settings": {
     "theme": "light",
     "filter": "todo",
@@ -191,6 +191,15 @@
         "id": "inv_1795367062526",
         "createdAt": "2026-11-22T17:04:22.526Z",
         "updatedAt": "2026-11-22T17:04:22.526Z"
+      },
+      {
+        "name": "Maman",
+        "amount": 70000,
+        "remaining": 70000,
+        "note": "",
+        "id": "inv_1795367090338",
+        "createdAt": "2026-11-22T17:04:50.338Z",
+        "updatedAt": "2026-11-22T17:04:50.339Z"
       }
     ],
     "revenues": [
