@@ -1,7 +1,7 @@
 {
-  "version": 7,
-  "client": "10.3.1",
-  "updatedAt": "2026-11-24T11:55:31.281Z",
+  "version": 8,
+  "client": "10.4.0",
+  "updatedAt": "2026-11-24T12:51:06.469Z",
   "settings": {
     "theme": "light",
     "filter": "todo",
@@ -4282,6 +4282,38 @@
     "settings": {
       "currency": "DZD",
       "autoDeductTransfer": true
+    }
+  },
+  "cashflow": {
+    "persons": [
+      {
+        "id": "person_salim",
+        "name": "Salim",
+        "balance": 69500,
+        "note": "",
+        "createdAt": "2026-11-21T11:47:55.333Z",
+        "updatedAt": "2026-11-21T11:47:55.333Z"
+      },
+      {
+        "id": "person_hakima",
+        "name": "Hakima",
+        "balance": 27000,
+        "createdAt": "2026-11-22T18:29:41.345Z",
+        "updatedAt": "2026-11-22T18:29:41.345Z",
+        "note": ""
+      },
+      {
+        "name": "Moh",
+        "balance": 0,
+        "note": "",
+        "id": "person_1795373557071",
+        "createdAt": "2026-11-22T18:52:37.071Z",
+        "updatedAt": "2026-11-22T18:52:37.071Z"
+      }
+    ],
+    "transfers": [],
+    "settings": {
+      "currency": "DZD"
     }
   },
   "deleted": {
