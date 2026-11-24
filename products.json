@@ -1,13 +1,9 @@
 {
   "version": 8,
-  "client": "10.4.0",
-  "updatedAt": "2026-11-24T12:51:06.469Z",
+  "client": "10.5.0",
+  "updatedAt": "2026-11-24T14:30:28.085Z",
   "settings": {
-    "theme": "light",
-    "filter": "todo",
-    "category": "all",
-    "sort": "recent",
-    "layout": "card"
+    "theme": "light"
   },
   "products": [],
   "bills": [
