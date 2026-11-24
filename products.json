@@ -1,7 +1,7 @@
 {
   "version": 8,
   "client": "10.5.0",
-  "updatedAt": "2026-11-24T15:58:34.228Z",
+  "updatedAt": "2026-11-24T19:09:34.472Z",
   "settings": {
     "theme": "light"
   },
@@ -4293,7 +4293,7 @@
       {
         "id": "person_hakima",
         "name": "Hakima",
-        "balance": 27000,
+        "balance": 59000,
         "createdAt": "2026-11-22T18:29:41.345Z",
         "updatedAt": "2026-11-22T18:29:41.345Z",
         "note": ""
