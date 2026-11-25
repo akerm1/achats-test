@@ -1,7 +1,7 @@
 {
   "version": 8,
   "client": "10.5.0",
-  "updatedAt": "2026-11-24T19:09:48.038Z",
+  "updatedAt": "2026-11-25T06:33:12.003Z",
   "settings": {
     "theme": "light"
   },
@@ -17,6 +17,17 @@
       "paidAt": "2026-11-20T08:02:52.222Z",
       "createdAt": "2026-11-20T08:02:52.222Z",
       "updatedAt": "2026-11-20T08:02:52.222Z"
+    },
+    {
+      "supplier": "2 paquetFermeture mettre",
+      "amount": 2400,
+      "photo": "",
+      "note": "1200 le paquet environ 80mtre",
+      "status": "paid",
+      "id": "bill-mwvqyuaz-okrgh9",
+      "paidAt": "2026-11-25T06:33:11.915Z",
+      "createdAt": "2026-11-25T06:33:11.915Z",
+      "updatedAt": "2026-11-25T06:33:11.915Z"
     }
   ],
   "expenses": {
