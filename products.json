@@ -1,7 +1,7 @@
 {
   "version": 8,
   "client": "10.5.0",
-  "updatedAt": "2026-11-25T19:13:57.463Z",
+  "updatedAt": "2026-11-25T19:15:49.923Z",
   "settings": {
     "theme": "light"
   },
@@ -4385,7 +4385,7 @@
       },
       {
         "name": "Moh",
-        "balance": 35060,
+        "balance": 30250,
         "note": "",
         "id": "person_1795373557071",
         "createdAt": "2026-11-22T18:52:37.071Z",
