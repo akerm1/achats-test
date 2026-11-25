@@ -1,7 +1,7 @@
 {
   "version": 8,
   "client": "10.5.0",
-  "updatedAt": "2026-11-25T16:12:07.961Z",
+  "updatedAt": "2026-11-25T16:13:18.360Z",
   "settings": {
     "theme": "light"
   },
@@ -4381,7 +4381,18 @@
         "updatedAt": "2026-11-22T18:52:37.071Z"
       }
     ],
-    "transfers": [],
+    "transfers": [
+      {
+        "from": "person_hakima",
+        "to": "person_1795373557071",
+        "amount": 59000,
+        "date": "2026-11-25",
+        "note": "",
+        "id": "transfer_1795623151266",
+        "createdAt": "2026-11-25T16:12:31.266Z",
+        "updatedAt": "2026-11-25T16:12:31.266Z"
+      }
+    ],
     "settings": {
       "currency": "DZD"
     }
