@@ -1,7 +1,7 @@
 {
   "version": 8,
   "client": "10.5.0",
-  "updatedAt": "2026-11-25T17:31:23.829Z",
+  "updatedAt": "2026-11-25T17:44:55.444Z",
   "settings": {
     "theme": "light"
   },
@@ -4365,14 +4365,6 @@
         "updatedAt": "2026-11-21T11:47:55.333Z"
       },
       {
-        "id": "person_hakima",
-        "name": "Hakima",
-        "balance": 0,
-        "createdAt": "2026-11-22T18:29:41.345Z",
-        "updatedAt": "2026-11-22T18:29:41.345Z",
-        "note": ""
-      },
-      {
         "name": "Moh",
         "balance": 0,
         "note": "",
@@ -4381,18 +4373,7 @@
         "updatedAt": "2026-11-22T18:52:37.071Z"
       }
     ],
-    "transfers": [
-      {
-        "from": "person_hakima",
-        "to": "person_1795373557071",
-        "amount": 59000,
-        "date": "2026-11-25",
-        "note": "",
-        "id": "transfer_1795623151266",
-        "createdAt": "2026-11-25T16:12:31.266Z",
-        "updatedAt": "2026-11-25T16:12:31.266Z"
-      }
-    ],
+    "transfers": [],
     "settings": {
       "currency": "DZD"
     }
@@ -4405,6 +4386,8 @@
     "bills|bill-murkjzhi-qu1vtw": 1794914918965,
     "bills|bill-mwkpzhpy-sm0fh0": 1795090233973,
     "bills|bill-mwo40zpv-y20q91": 1795126656282,
-    "products|local-mwoove2i-w5enb0": 1795161644111
+    "products|local-mwoove2i-w5enb0": 1795161644111,
+    "cash.persons|person_hakima": 1795628695360,
+    "cash.transfers|transfer_1795623151266": 1795628695360
   }
 }
