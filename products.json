@@ -1,7 +1,7 @@
 {
   "version": 8,
   "client": "10.5.0",
-  "updatedAt": "2026-11-25T06:34:23.901Z",
+  "updatedAt": "2026-11-25T06:35:02.709Z",
   "settings": {
     "theme": "light"
   },
@@ -4315,7 +4315,7 @@
       {
         "id": "person_salim",
         "name": "Salim",
-        "balance": 69500,
+        "balance": 65500,
         "note": "",
         "createdAt": "2026-11-21T11:47:55.333Z",
         "updatedAt": "2026-11-21T11:47:55.333Z"
