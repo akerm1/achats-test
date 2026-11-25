@@ -1,7 +1,7 @@
 {
   "version": 8,
   "client": "10.5.0",
-  "updatedAt": "2026-11-25T18:57:32.703Z",
+  "updatedAt": "2026-11-25T18:57:53.441Z",
   "settings": {
     "theme": "light"
   },
@@ -242,17 +242,6 @@
         "id": "exp_1795454368080",
         "createdAt": "2026-11-23T17:19:28.081Z",
         "updatedAt": "2026-11-23T17:19:28.081Z"
-      },
-      {
-        "categoryId": "tools",
-        "amount": 1550,
-        "date": "2026-11-25",
-        "note": "2 lampes",
-        "isTransfer": false,
-        "linkedInvestmentId": null,
-        "id": "exp_1795622653620",
-        "createdAt": "2026-11-25T16:04:13.620Z",
-        "updatedAt": "2026-11-25T16:04:13.620Z"
       }
     ],
     "investments": [
@@ -4404,6 +4393,7 @@
     "bills|bill-mwo40zpv-y20q91": 1795126656282,
     "products|local-mwoove2i-w5enb0": 1795161644111,
     "cash.persons|person_hakima": 1795628695360,
-    "cash.transfers|transfer_1795623151266": 1795628695360
+    "cash.transfers|transfer_1795623151266": 1795628695360,
+    "exp.expenses|exp_1795622653620": 1795633073332
   }
 }
