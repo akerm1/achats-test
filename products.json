@@ -1,7 +1,7 @@
 {
   "version": 8,
   "client": "10.5.0",
-  "updatedAt": "2026-11-25T17:44:55.444Z",
+  "updatedAt": "2026-11-25T17:45:02.345Z",
   "settings": {
     "theme": "light"
   },
@@ -4371,6 +4371,14 @@
         "id": "person_1795373557071",
         "createdAt": "2026-11-22T18:52:37.071Z",
         "updatedAt": "2026-11-22T18:52:37.071Z"
+      },
+      {
+        "name": "Hakima",
+        "balance": 0,
+        "note": "",
+        "id": "person_1795628700378",
+        "createdAt": "2026-11-25T17:45:00.379Z",
+        "updatedAt": "2026-11-25T17:45:00.379Z"
       }
     ],
     "transfers": [],
