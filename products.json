@@ -1,7 +1,7 @@
 {
   "version": 8,
   "client": "10.5.0",
-  "updatedAt": "2026-11-25T16:01:19.262Z",
+  "updatedAt": "2026-11-25T16:04:13.748Z",
   "settings": {
     "theme": "light"
   },
@@ -242,6 +242,17 @@
         "id": "exp_1795454368080",
         "createdAt": "2026-11-23T17:19:28.081Z",
         "updatedAt": "2026-11-23T17:19:28.081Z"
+      },
+      {
+        "categoryId": "tools",
+        "amount": 1550,
+        "date": "2026-11-25",
+        "note": "2 lampes",
+        "isTransfer": false,
+        "linkedInvestmentId": null,
+        "id": "exp_1795622653620",
+        "createdAt": "2026-11-25T16:04:13.620Z",
+        "updatedAt": "2026-11-25T16:04:13.620Z"
       }
     ],
     "investments": [
