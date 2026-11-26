@@ -1,7 +1,7 @@
 {
   "version": 8,
   "client": "10.5.0",
-  "updatedAt": "2026-11-26T07:45:16.868Z",
+  "updatedAt": "2026-11-26T08:16:48.374Z",
   "settings": {
     "theme": "light"
   },
@@ -88,17 +88,6 @@
         "updatedAt": "2026-11-19T14:46:34.778Z"
       },
       {
-        "id": "gas",
-        "label": "Gaz",
-        "icon": "flame",
-        "color": "#fb8c00",
-        "defaultAmount": 0,
-        "isDefault": false,
-        "order": 999,
-        "createdAt": "2026-11-13T12:57:35.061Z",
-        "updatedAt": "2026-11-16T17:32:41.866Z"
-      },
-      {
         "id": "rent",
         "label": "Loyer",
         "icon": "home",
@@ -114,6 +103,17 @@
         "label": "Main d'œuvre",
         "icon": "users",
         "color": "#1e88e5",
+        "defaultAmount": 0,
+        "isDefault": false,
+        "order": 999,
+        "createdAt": "2026-11-13T12:57:35.061Z",
+        "updatedAt": "2026-11-16T17:32:41.866Z"
+      },
+      {
+        "id": "gas",
+        "label": "Gaz",
+        "icon": "flame",
+        "color": "#fb8c00",
         "defaultAmount": 0,
         "isDefault": false,
         "order": 999,
